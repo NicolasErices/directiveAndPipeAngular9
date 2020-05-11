@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "directiveAndPipeAngular9"
+    }
+  },
+  "defaultProject": "directiveAndPipeAngular9",
+  "cli": {
+    "analytics": "d842be2f-8165-4cfa-a190-a0727174f9d8"
+  }
 }
